@@ -24,8 +24,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.paypal.me/samuele00osti"><img src="https://img.icons8.com/color/240/paypal.png" width="50"/></a></li>
-
-</ul>
+<a href="https://www.paypal.me/samuele00osti"><img src="https://img.icons8.com/color/240/paypal.png" width="50"/></a>
